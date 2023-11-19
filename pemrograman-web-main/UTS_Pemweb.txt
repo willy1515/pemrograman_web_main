@@ -1,0 +1,29 @@
+Nama	: Fahrul Rozi
+NIM	: 22416255201017
+kelas	: IF22G
+
+SUB-CPMK-1
+
+1. Apa yang diaksud dengan framework pada pengembangan aplikasi?
+(Jelaskan dengan bahasa yang mudah dimengerti bukan secara harfiah/ istilah)
+JAWAB: 
+Fremwork dalam pengembangan aplikasi adalah kumpulan kode program yang sudah di tulis sebelumnya yg sudah memiliki struktur dan aturan tertentu yg membuat proses pengembangan menjadi lebih mudah dan cepta , alih-alih membuat kode dari awal fremwork menyediakan fitur-fitur dasat seperti sistem login,pengaturan database dll. jadi kita hanya perlu fokus untuk fitur khusus yg di butuhkan aplikasi kita
+
+
+SUB-CPMK-2
+
+1. Sebutkan tema proyek yang sedang di garap!
+2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing- masing anggota!
+3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! ( jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/ istilah)
+
+Jawab
+
+1. KLINIK
+2.	 - Ina Amelia 1293	Frontend	
+	 - Fahrul Rozi 1017	Backend
+	 - Abdul Muhid M 1053	backand
+3. Klinik Nur Asy-syfa adalah salah satu klinik yang menyediakan layanan kesehatan secara umum. Terdapat beberapa pelayanan kesehatan yang disediakan oleh klinik tersebut antara lain praktik dokter umum dan apotek. Dalam melakukan kegiatan operasional pelayanan kesehatan , pengelola klinik masih mengandalkan media kertas untuk mencatat berbagai data. Misalnya data rekam medis, nota pembelian obat, serta nota pembayaran jasa pelayanan kesehatan. Dengan menggunakan media kertas tersebut masih relevan untuk digunakan , namun untuk digunakan berulang kali dengan jumlah yang banyak dan disimpan dalam jangka waktu yang lama menjadi tidak efektif dikarenakan rentannya terhadap kerusakan dan kehilangan. Adapun permasalaha lainnya  yang dihadapi klinik Nur Asy-syfa yaitu tidak adanya informasi jadwal dokter yang dapat dilihat secara publik dan realtime untuk dapat di akses oleh calon pasien, sistem antrian pasien yang kurang efektif, dan ketidak efektifan proses pencarian data rekam medis pasien dan pengelolaan nota pembayaran. 
+Berdasarkan analisis studi literatur dan permasalahan, maka kami mengusulkan implementasi aplikasi managemen klinik pada studi kasus klinik Nur Asy-syfa. Aplikasi ini dapat di operasikan di satu platfrom yaitu web.
+
+
+	
